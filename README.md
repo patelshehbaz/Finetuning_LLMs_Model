@@ -4,5 +4,9 @@ This repository contains various notebooks and scripts for fine-tuning different
 
 ## Contents
 
-- `Fine_tune_Llama_2.ipynb`: Notebook for fine-tuning the LLaMA 2 model.
-- `Mistral_Finetuning.ipynb`: Notebook for fine-tuning the Mistral model.
+- `Fine_tune_Llama_2`.
+- `Mistral_Finetuning`
+- `GPT_finetuning`
+- `Zephyr_Finetuning`
+- `Bert_finetuning`
+- `Pegasus_Finetuning`
